@@ -1,1 +1,3 @@
-# major_project_car_6th_sem
+used_cars.xlsx --> Processed Excel file
+
+used_cars.csv  --> Raw data (USE WITH .IPYNB FILE)
